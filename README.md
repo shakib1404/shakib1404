@@ -1,9 +1,20 @@
-###### Hi there 👋
+<h1 align="center">Hi there 👋, I'm Shakibul Islam Shakib</h1>
 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Shakibul+Islam+Shakib)](https://git.io/typing-svg)
-<img src="https://media1.tenor.com/m/IieZUsqoYCwAAAAC/developer.gif" width=400>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Shakibul+Islam+Shakib;Software+Engineer+%7C+AI+Enthusiast+%7C+Researcher;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/IieZUsqoYCwAAAAC/developer.gif" width="400"/>
+</p>
+
+<p align="center">
 🎓 Undergraduate Student | 💻 Software Engineer | 🔍 Research Enthusiast  
+<br>
 📍 Dhaka, Bangladesh | 🔭 Building meaningful tech for the future
+</p>
 
 ---
 
@@ -55,11 +66,9 @@
 ## 📫 Connect with Me
 
 - 🌐 [GitHub](https://github.com/shakib1404)
-- 📧 shakibislam599@gmail.com
-- 
+- 📧 Email: shakibislam599@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/shakib1404/)
 
 ---
 
-_“Building for the future, one system at a time.”_
-...
--->
+<p align="center"><i>“Building for the future, one system at a time.”</i></p>
