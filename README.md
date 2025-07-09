@@ -72,3 +72,10 @@
 ---
 
 <p align="center"><i>“Building for the future, one system at a time.”</i></p>
+
+## 📊 GitHub Stats
+
+![Shakib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shakib1404&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shakib1404&layout=compact&theme=tokyonight)
+
