@@ -67,7 +67,7 @@
 
 - 🌐 [GitHub](https://github.com/shakib1404)
 - 📧 Email: shakibislam599@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/shakib1404/)
+  
 
 ---
 
