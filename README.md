@@ -1,6 +1,6 @@
 ###### Hi there 👋
 
-# 👋 Hi there, I'm Shakibul Islam Shakib
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Shakibul+Islam+Shakib)](https://git.io/typing-svg)
 
 🎓 Undergraduate Student | 💻 Software Engineer | 🔍 Research Enthusiast  
 📍 Dhaka, Bangladesh | 🔭 Building meaningful tech for the future
