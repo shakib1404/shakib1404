@@ -55,7 +55,7 @@
 ## 📫 Connect with Me
 
 - 🌐 [GitHub](https://github.com/shakib1404)
-- 📧 shakibislam1404@gmail.com
+- 📧 shakibislam599@gmail.com
 - 
 
 ---
